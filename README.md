@@ -1,124 +1,161 @@
 <div align="center">
-  
-  <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/type=waving&color=1a1b26&height=220&section=header&text=Chamnol%20Mao&fontSize=70&fontColor=f75812&animation=twinkling" width="100%" alt="Header Banner" />
 
-  <!-- SUBTITLE BADGES -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Backend%20Developer-%231a1b26?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Full%20Stack%20Explorer-%231a1b26?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cambodia-%23E65B2C?style=for-the-badge&logoColor=white" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=200&section=header&text=Chamnol&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Vue.js%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-  <h4>🚀 Passionate Software Developer specializing in robust backend architectures, distributed cloud systems, and secure fintech integrations.</h4>
+<br>
 
-  <p align="center">
-    <a href="https://github.com/ChamNol09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
-    <a href="https://www.linkedin.com/in/chamnol-mao-458285335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:maochamnol37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=520&lines=Building+responsive+web+apps+with+Vue.js;Learning+Node.js+%2B+Express+%2B+REST+APIs;Clean+code%2C+one+step+at+a+time." alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=chamnol&color=42b883&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/chamnol?label=FOLLOWERS&style=for-the-badge&color=42b883"/>
+
+<br><br>
+
+<a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
-
-<br />
 
 ---
 
-### ⚡ Quick Insights
+# 🌊 About Me
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌱 What I'm Up To</h4>
-      <ul>
-        <li><b>Expanding Ecosystems:</b> Advanced <code>Node.js</code>, enterprise database modeling via <code>Prisma ORM</code>, and distributed Cloud Systems.</li>
-        <li><b>Security & FinTech:</b> Deep dives into secure JWT authentication pipelines, API token management, and localized payment aggregators.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Engineering Philosophy</h4>
-      <ul>
-        <li><b>Scalability First:</b> Writing predictable, highly testable backend services.</li>
-        <li><b>Future Frontiers:</b> Bridging the gap between robust software engineering practices and practical Machine Learning applications.</li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="80%" valign="top">
+
+🎓 Final-year **Computer Science** student
+
+🏅 **Gen2 Scholarship** graduate at **ANT Technology Training Center**
+
+🖥️ Passionate about building responsive web applications using **Vue.js**
+
+🌱 Currently learning **Node.js**, **Express.js**, and **REST APIs**
+
+✨ I focus on writing clean, maintainable code while constantly improving my skills to deliver higher-quality software.
+
+</td>
+
+<td width="90%" align="center">
+
+<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="380"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🛠️ Ecosystem & Tech Stack
+# 🧰 Languages & Tools
 
-<div align="left">
-  
-| Layer | Technologies & Ecosystem Components |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" /> |
-| **Frameworks & Core** | <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white" /> |
-| **Databases** | <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **Tools & Cloud** | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vue,js,html,css,nodejs,express,mysql,git,github,vscode,figma,postman"/>
 
 </div>
 
 ---
 
-### 📌 Engineered Projects
-
-<!-- PROJECT 1 -->
-<blockquote>
-  <details open>
-    <summary><b>🛒 E-Commerce KHQR Payment System</b></summary>
-    <br />
-    A production-ready localized payment gateway integrating the national <b>Bakong KHQR</b> standard. Dynamically provisions encrypted payment payloads, fetching contextual system data to output transaction-locked QR codes.
-    <br /><br />
-    <code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Bakong API</code>
-  </details>
-</blockquote>
-
-<!-- PROJECT 2 -->
-<blockquote>
-  <details open>
-    <summary><b>☕ Cafe Shop Management System (POS)</b></summary>
-    <br />
-    A full-scale internal operation client managing real-time inventory adjustments, cryptographic transactional receipt logging, and shift allocations.
-    <br /><br />
-    <code>C#</code> <code>SQL Server</code> <code>Layered Architecture</code>
-  </details>
-</blockquote>
-
-<!-- PROJECT 3 -->
-<blockquote>
-  <details open>
-    <summary><b>📦 Cloud-Based Inventory Management System</b></summary>
-    <br />
-    An active research and engineering build centered around automated resource tracking, asynchronous low-stock alert updates, and modern multi-tenant supply line visibility.
-    <br /><br />
-    <code>TypeScript</code> <code>Docker</code> <code>PostgreSQL</code> <code>Microservices</code>
-  </details>
-</blockquote>
-
----
-
-### 📊 Real-Time Analytics & Statistics
+# 💻 Tech Stack
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=f75812&text_color=a9b1d6&icon_color=f75812&border_color=24283b&hide_border=false" alt="GitHub Stats" width="95%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=f75812&text_color=a9b1d6&border_color=24283b&hide_border=false" alt="Top Languages" width="95%" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 </div>
 
 ---
 
+# 📊 GitHub Stats
+
 <div align="center">
-  
-  ✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Keep building systems that speak for themselves!
-  
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=f75812&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamnol&theme=vue-dark&hide_border=true" width="520"/>
+
+</div>
+
+---
+
+# 🏗️ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🏠 Room Rental Management System
+
+Web-based platform for landlords to manage rooms, tenants, payments, reports, and maintenance.
+
+**Tech Stack**
+
+Vue.js • Node.js • Express • MySQL
+
+<br>
+
+<a href="https://web2.pteas-yerng.work.gd" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📰 Dev Tech News Platform
+
+Technology news platform with responsive UI, search, and REST API integration.
+
+**Tech Stack**
+
+Vue.js • JavaScript • REST API
+
+<br>
+
+<a href="https://devtech-journal.vercel.app" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ☕ Thanks for visiting!
+
+<img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="100%"/>
+
+<br>
+
+> **"Step by Step, One step one problem, One solution, One lesson."**
+
+**- Chamnol -**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=130&section=footer" width="100%"/>
 
 </div>
