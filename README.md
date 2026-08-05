@@ -309,11 +309,11 @@ Modern technology news platform built with Vue.js featuring responsive layouts, 
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:maochamnol37@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/chamnol-mao-458285335">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -321,7 +321,7 @@ Modern technology news platform built with Vue.js featuring responsive layouts, 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://your-portfolio.vercel.app](https://chamnol-portfolio-v1-pt29.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
