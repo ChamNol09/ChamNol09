@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="chamnol-portfolio.vercel.app" target="_blank">
+<a href="https://mao-chamnol-portfolio.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
